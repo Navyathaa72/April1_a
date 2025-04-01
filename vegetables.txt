@@ -1,0 +1,6 @@
+carrot
+beetroot
+tomato
+potato
+onion
+
