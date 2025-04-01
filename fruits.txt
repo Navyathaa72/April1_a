@@ -1,0 +1,6 @@
+apples
+oranges
+mango
+chiko
+cherry
+berry
